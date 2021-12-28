@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omargamal253@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12GSXNbOfedQEGEiEcj1PToD7jfnBjjWS/view](https://drive.google.com/file/d/12GSXNbOfedQEGEiEcj1PToD7jfnBjjWS/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12GSXNbOfedQEGEiEcj1PToD7jfnBjjWS/view](https://drive.google.com/file/d/1PvteXHi5nE7eBU99BNIedECeWgIzioKd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
