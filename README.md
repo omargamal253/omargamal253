@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm omar gamal</h1>
-<h3 align="center">Junior Software Engineer and Student at faculty of computer and information science, Ain-Shams University</h3>
+<h3 align="center">Junior Software Engineer, Computer Science student in the senior year have experience in
+different software development tracks mainly in android development using java
+and kotlin, .net web development and backend using python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omargamal253&label=Profile%20views&color=0e75b6&style=flat" alt="omargamal253" /> </p>
 
