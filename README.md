@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm omar gamal</h1>
 <h3 align="center">Junior Software Engineer, Computer Science student in Faculty of Computer and Information
-Sciences on the senior year have experience in
+Sciences Ain-Shams University on the senior year have experience in
 different software development tracks mainly in android development using java
 and kotlin, .net web development and backend using python</h3>
 
