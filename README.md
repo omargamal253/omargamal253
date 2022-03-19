@@ -14,11 +14,11 @@ and kotlin, .net web development and backend using python</h3>
 
 - 📫 How to reach me **omargamal253@gmail.com**
 
-- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1PvteXHi5nE7eBU99BNIedECeWgIzioKd/view?usp=sharing)
+- 📄 Know about my experiences [My Resume ](https://cisasuedu-my.sharepoint.com/:b:/g/personal/omar2018170252_cis_asu_edu_eg/EWsDVTVA1YJFvm_Hj9qDsmQBbfrtpyue67mS_vzByYHuPA?e=2FIQNV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-gamal-8b76871b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/omar-gamal-8b76871b4/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-gamal-8b76871b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/omar-gamal-8b76871b4" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
